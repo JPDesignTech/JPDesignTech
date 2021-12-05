@@ -1,8 +1,7 @@
-<img src="https://i.imgur.com/0QaSeAM.png"/>
+<img src="https://i.imgur.com/0QaSeAM.png" herf="https://www.JPDesign.tech/">
 
 <h1 align="center">Hi 👋, My Name is Jean</h1>
 <h3 align="center">A technologist, engineer, and team builder.</h3>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpere547&label=Profile%20views&color=0e75b6&style=flat" alt="jpere547" /> </p>

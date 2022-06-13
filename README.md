@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpere547&label=Profile%20views&color=0e75b6&style=flat" alt="jpere547" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.JPDesign.tech](https://www.JPDesign.tech)
+- 👨‍💻 Personal Website: [https://www.JPDesign.tech](https://www.JPDesign.tech)
+- 📺 YouTube Channel: [JPDesign.Tech](https://www.youtube.com/channel/UCHVRUE0xfE_HejIQp7DALlw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/0QaSeAM.png" alt="https://www.JPDesign.tech/">
+<img src="https://i.imgur.com/TdBaEdd.png" alt="https://www.JPDesign.tech/">
 
 <h1 align="center">Hi 👋, My Name is Jean</h1>
 <h3 align="center">A technologist, engineer, and team builder.</h3>

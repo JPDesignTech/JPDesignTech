@@ -113,6 +113,6 @@
 </p>
 <p>
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JPDesignTech&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JPDesignTech&show_icons=true&locale=en&layout=compact&hide=html"
     alt="JPDesignTech" />
 </p>

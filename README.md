@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, My Name is Jean</h1>
 
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=jpere547&label=Profile%20views&color=0e75b6&style=flat"
@@ -11,23 +10,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/jeanp3z" target="blank">
-    <img align="center"
+  <a href="https://twitter.com/jeanp3z" target="blank"><img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jeanp3z" height="30" width="40" />
+      alt="jeanp3z" height="60" width="40" />
   </a>
   <a href="https://linkedin.com/in/jeancarlosp" target="blank">
-    <img align="center"
+    <img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jeancarlosp" height="30" width="40" />
+      alt="jeancarlosp" height="60" width="40" />
   </a>
-  <a href="https://jpdesign.tech" target="blank">
-    <img align="center"
+  <a href="https://jpdesign.tech" target="blank"><img align="left"
       src="https://jpdesign.tech/images/brand-image.png"
-      alt="jpdesign" height="40" width="40" />
-  </a>
+      alt="jpdesign" height="60" width="40" /></a>
+</br>
+  
 </p>
-
+</br>
 <h3 align="left">My Favorite Tools and Frameworks:</h3>
 <p align="left">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
@@ -94,9 +92,6 @@
       width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"
       height="40" />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" />
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -116,7 +111,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" />
 </p>
-
 <p>
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=JPDesignTech&show_icons=true&locale=en&layout=compact"

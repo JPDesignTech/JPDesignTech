@@ -20,7 +20,7 @@
       alt="jeancarlosp" height="60" width="40" />
   </a>
   <a href="https://jpdesign.tech" target="blank"><img align="left"
-      src="https://jpdesign.tech/images/brand-image.png"
+      src="https://jpdesign.tech/img/logo/brand-image.png"
       alt="jpdesign" height="60" width="40" /></a>
 </br>
   

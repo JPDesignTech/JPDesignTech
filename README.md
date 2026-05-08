@@ -156,12 +156,21 @@
   <tr>
     <td align="center" valign="middle"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></td>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
-    <td align="center" valign="middle"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/webgl.svg" alt="WebGL" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" alt="FFmpeg" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 Canvas 2D" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" alt="tRPC" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/drizzle.svg" alt="Drizzle ORM" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" /></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="sentry" width="40" height="40" /></td>
   </tr>
 </table>
 

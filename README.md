@@ -63,12 +63,8 @@
   </tr>
 </table>
 
-### Also
 
-- [JPDesign](https://jpdesign.tech) — portfolio, blog, and background
-- [GitHub](https://github.com/JPDesignTech) — pinned repositories and open source
-
-### Quick links
+<h3>Connect with me</h3>
 
 <table border="0" cellspacing="0" cellpadding="4" rules="none">
   <tr>
@@ -90,26 +86,6 @@
   </tr>
 </table>
 
-<h3>Connect with me</h3>
-<table border="0" cellspacing="0" cellpadding="8" rules="none">
-  <tr>
-    <td align="center">
-      <a href="https://twitter.com/jeanp3z" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/jeancarlosp" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jpdesign.tech" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.jpdesign.tech/img/logo/brand-image.png" alt="JPDesign" width="40" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <h3>My favorite tools and frameworks</h3>
 <table border="0" cellspacing="0" cellpadding="8" rules="none">
